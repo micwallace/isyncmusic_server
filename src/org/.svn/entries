@@ -1,0 +1,38 @@
+10
+
+dir
+43
+svn+ssh://192.168.1.250/srv/repos/svn/isyncserver/itunes.AirSync.server/src/org
+svn+ssh://192.168.1.250/srv/repos/svn/isyncserver
+
+
+
+2012-10-06T14:32:06.859021Z
+42
+root
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+07f448ce-98c4-4d96-acbf-42a8216fc1e7
+
+
+
+
+
+
+0
+
+clapper
+dir
+
